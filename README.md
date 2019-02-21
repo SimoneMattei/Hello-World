@@ -1,2 +1,2 @@
-# Simo-repository
+# Hello-World
 First repository
